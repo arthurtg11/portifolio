@@ -264,14 +264,14 @@ then I decided to stop attending college and start distance learning because we 
               <ExperienceCard
                 title="Cs3 Revestimentos"
                 href="https://www.linkedin.com/company/cs3-m%C3%A1rmores-e-granitos-do-brasil/"
-                image="https://media-exp1.licdn.com/dms/image/C4D0BAQEf07ay54ar5Q/company-logo_200_200/0/1651092729862?e=1677110400&v=beta&t=VgCENMpmTF-7v0mfSpYPeQw-9zu6ddkEesd-0M0fTMI"
+                image="/cs3logo.jpg"
                 desc="This was my first company, I started as a treinee and I worked for ten months. I worked with Senior Sistemas, SQL, React.js and React Native."
                 date="08/2020 - 06/2021"
               />
               <ExperienceCard
                 title="dashGo"
                 href="https://www.linkedin.com/company/conexoscloud/"
-                image="https://media-exp1.licdn.com/dms/image/C4D0BAQGvcu-Bm_7BrA/company-logo_200_200/0/1658424100430?e=1677110400&v=beta&t=HUtdUCwYE1p5bppcVHA35ZCQj9gX2fn7u9_jYjrxalw"
+                image="conexoslogo.jpg"
                 desc="This was my second company, I started as a treinee and now I’m Jr. Developer and I work with JAVA and PLSQL."
                 date="08/2021 - Present"
               />
